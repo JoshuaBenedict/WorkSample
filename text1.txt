@@ -1,1 +1,3 @@
 Welcome to the club
+Breif intro about the project:
+  Live web dev with latest react framework 
